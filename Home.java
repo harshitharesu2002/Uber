@@ -1,1 +1,0 @@
-This represents the home page after a successful login
